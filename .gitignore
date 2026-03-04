@@ -1,0 +1,12 @@
+# Node modules
+dist/
+node_modules/
+
+# Build artifacts
+build/
+
+# Common IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
